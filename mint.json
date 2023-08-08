@@ -61,6 +61,10 @@
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation", "essentials/lessn"]
     },
     {
+      "group": "Database Queries",
+      "pages": ["essentials/lessn"]
+    },
+    {
       "group": "API Documentation",
       "pages": ["api-reference/authentication"]
     },
